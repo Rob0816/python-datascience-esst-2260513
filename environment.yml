@@ -1,0 +1,13 @@
+name: python-datascience-esst
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - jupyterlab
+  - notebook
+  - ipykernel
